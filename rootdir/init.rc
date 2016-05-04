@@ -10,8 +10,8 @@ import /init.${ro.hardware}.rc
 import /init.usb.configfs.rc
 import /init.${ro.zygote}.rc
 import /init.trace.rc
-# Include VRToxin's extra init file
-import /init.vrtoxin.rc
+# Include Cyanide's extra init file
+import /init.cyanide.rc
 
 
 on early-init
